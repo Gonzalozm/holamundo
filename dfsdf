@@ -1,0 +1,36 @@
+* [33mcommit e3dbbfab4b229408b44446b524c24f4cb12d3c51[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Gonzalo Zamora <zamo_gonzalo@hotmail.com>
+[31m|[m Date:   Mon Jan 13 18:54:29 2020 +0100
+[31m|[m 
+[31m|[m     Hemos vuelto a modificar holamundo.html
+[31m|[m   
+*   [33mcommit 6c4261bf6258657a9e5e71ed33a5cc0e7d8d40aa[m
+[32m|[m[33m\[m  Merge: aac426c 3660ee4
+[32m|[m [33m|[m Author: Gonzalo Zamora <zamo_gonzalo@hotmail.com>
+[32m|[m [33m|[m Date:   Mon Jan 13 18:53:12 2020 +0100
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Hemos vuelto a modificar holamundo.html
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 3660ee4ac1f196b40b77f7efc0e21fe92b609c44[m
+[32m|[m [33m|[m Author: Gonzalo Zamora <zamo_gonzalo@hotmail.com>
+[32m|[m [33m|[m Date:   Mon Jan 13 18:47:08 2020 +0100
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     se ha anadido listado.html
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 88970c94d0261d9116287b6434ea173072491049[m
+[32m|[m [33m|[m Author: Gonzalo Zamora <zamo_gonzalo@hotmail.com>
+[32m|[m [33m|[m Date:   Mon Jan 13 18:28:31 2020 +0100
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Hemos realizado cambios en datos.txt, holamundo.css, holamundo.html, y holamundo.js
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit aac426c09d2d83fae55c5a41e2380267f3b3bd4c[m[33m ([m[1;32mholamundo2[m[33m)[m
+[33m|[m[33m/[m  Author: Gonzalo Zamora <zamo_gonzalo@hotmail.com>
+[33m|[m   Date:   Mon Jan 13 17:42:38 2020 +0100
+[33m|[m   
+[33m|[m       Hemos modificado holamundo.html
+[33m|[m 
+* [33mcommit f0fdeed1f29a2353ad59411c2086e8fb61841ae8[m
+  Author: Gonzalo Zamora <zamo_gonzalo@hotmail.com>
+  Date:   Mon Jan 13 17:38:03 2020 +0100
+  
+      Commit Inicial
